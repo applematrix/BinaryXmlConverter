@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.hdz;
+package com.hdz.binaryxmlconverter;
 
 import java.io.BufferedInputStream;
 import java.io.Closeable;

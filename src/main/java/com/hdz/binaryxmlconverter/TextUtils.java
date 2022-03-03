@@ -1,4 +1,4 @@
-package com.hdz;
+package com.hdz.binaryxmlconverter;
 
 public class TextUtils {
 

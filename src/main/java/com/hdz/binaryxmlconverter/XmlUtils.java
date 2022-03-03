@@ -1,4 +1,4 @@
-package com.hdz;
+package com.hdz.binaryxmlconverter;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;

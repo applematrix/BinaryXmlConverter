@@ -14,23 +14,23 @@
  * limitations under the License.
  */
 
-package com.hdz;
+package com.hdz.binaryxmlconverter;
 
-import static com.hdz.BinaryXmlSerializer.ATTRIBUTE;
-import static com.hdz.BinaryXmlSerializer.PROTOCOL_MAGIC_VERSION_0;
-import static com.hdz.BinaryXmlSerializer.TYPE_BOOLEAN_FALSE;
-import static com.hdz.BinaryXmlSerializer.TYPE_BOOLEAN_TRUE;
-import static com.hdz.BinaryXmlSerializer.TYPE_BYTES_BASE64;
-import static com.hdz.BinaryXmlSerializer.TYPE_BYTES_HEX;
-import static com.hdz.BinaryXmlSerializer.TYPE_DOUBLE;
-import static com.hdz.BinaryXmlSerializer.TYPE_FLOAT;
-import static com.hdz.BinaryXmlSerializer.TYPE_INT;
-import static com.hdz.BinaryXmlSerializer.TYPE_INT_HEX;
-import static com.hdz.BinaryXmlSerializer.TYPE_LONG;
-import static com.hdz.BinaryXmlSerializer.TYPE_LONG_HEX;
-import static com.hdz.BinaryXmlSerializer.TYPE_NULL;
-import static com.hdz.BinaryXmlSerializer.TYPE_STRING;
-import static com.hdz.BinaryXmlSerializer.TYPE_STRING_INTERNED;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.ATTRIBUTE;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.PROTOCOL_MAGIC_VERSION_0;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_BOOLEAN_FALSE;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_BOOLEAN_TRUE;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_BYTES_BASE64;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_BYTES_HEX;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_DOUBLE;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_FLOAT;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_INT;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_INT_HEX;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_LONG;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_LONG_HEX;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_NULL;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_STRING;
+import static com.hdz.binaryxmlconverter.BinaryXmlSerializer.TYPE_STRING_INTERNED;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;

@@ -1,4 +1,4 @@
-package com.hdz;
+package com.hdz.binaryxmlconverter;
 
 /*
  * Copyright (C) 2020 The Android Open Source Project
